@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Dsons/CLionProjects/untitled/ft_printf.h
+stdarg.h
+C:/Users/Dsons/CLionProjects/untitled/stdarg.h
+string.h
+C:/Users/Dsons/CLionProjects/untitled/string.h
+stdio.h
+C:/Users/Dsons/CLionProjects/untitled/stdio.h
+unistd.h
+C:/Users/Dsons/CLionProjects/untitled/unistd.h
+string.h
+C:/Users/Dsons/CLionProjects/untitled/string.h
+stdio.h
+-
+stdarg.h
+-
+wchar.h
+-
+stdlib.h
+-
+
+C:/Users/Dsons/CLionProjects/untitled/main.c
+ft_printf.h
+C:/Users/Dsons/CLionProjects/untitled/ft_printf.h
+
+C:/Users/Dsons/CLionProjects/untitled/parser.c
+ft_printf.h
+C:/Users/Dsons/CLionProjects/untitled/ft_printf.h
+
